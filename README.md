@@ -1,7 +1,3 @@
-# 
-
-# IMPORTANT: Bug Fixes
-
 ## cappture-picture
 Capture and download the picture by the webcam.
 
