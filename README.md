@@ -1,4 +1,4 @@
-## cappture-picture
+## capture-picture
 Capture and download the picture by the webcam.
 
 ## index
